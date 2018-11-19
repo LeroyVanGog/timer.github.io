@@ -1,0 +1,30 @@
+body, h1{
+	font-family: "Montserrat", sans-serif;
+}
+body, html {height:100%;}
+.bgimg{
+	background-image: url(img/novi_god.jpg);
+	min-height:100%;
+	background-position: center;
+background-size: cover;}
+.middle-text{color:white;
+margin: 550px;
+text-shadow: 2px 0 4px #000000;
+
+}
+h1 {
+	padding: 0 99px ;
+		
+} 
+.logo {
+	color:white;
+	padding: 20px;
+	
+	
+}
+a{text-shadow: 2px 0 4px #000000;
+	text-decoration:none;}
+
+.logo{
+	font-size: 30px;
+}
